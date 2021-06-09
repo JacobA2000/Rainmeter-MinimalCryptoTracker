@@ -60,6 +60,12 @@ However, as I am early in the development stage these comments may not be presen
 
 - Multi Trackers:
     * 3 Trackers
+        - Horizontal
 
-        ![Muli Trackers - 3 Trackers](./img/MultiTracker-3-Tracker.png)
+            ![Muli Trackers - 3 Trackers - Horizontal](./img/MultiTracker-3-Tracker-Horizontal.png)
+
+        - Vertical
+        
+            ![Muli Trackers - 3 Trackers - Vertical](./img/MultiTracker-3-Tracker-Vertical.png)
+
 
